@@ -1,3 +1,1 @@
-Projeto Individual Clone
-
-Aluno: Aniello Longobardi
+Projeto clone da Maria Eduarda
